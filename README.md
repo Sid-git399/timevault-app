@@ -88,5 +88,5 @@ npm run start
   own status. A real deployment would need a notification path (email/Slack) to
   alert a human seller when a new inquiry comes in.
 - **Admin**: the `Role` enum on `User` is defined but unused — a natural next step
-  is an admin view for managing watch listings and responding to inquiries.
+  is an admin view for managing watch listings and responding to inquiries..
 
